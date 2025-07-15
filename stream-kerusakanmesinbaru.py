@@ -19,7 +19,7 @@ with col_title:
     st.markdown("""
     <div style='text-align: center;'>
         <h1 style='margin-bottom: 0;'>❄️ Prediksi Kerusakan Mesin Cooling Tower</h1>
-        <p style='margin-top: 0; font-size: 18px;'>Fakultas Teknik - Universitas Bhayangkara Jakarta</p>
+        <p style='margin-top: 0; font-size: 18px;'>Fakultas Teknik Industri - Universitas Bhayangkara Jakarta Raya</p>
     </div>
     """, unsafe_allow_html=True)
 
