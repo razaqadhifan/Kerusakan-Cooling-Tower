@@ -32,7 +32,7 @@ if page == "Prediksi":
     st.subheader("🛠️ Form Input Data Mesin")
 
     st.markdown("""
-    <div style='background-color: #fff3cd; padding: 10px; border-radius: 8px; border-left: 5px solid #ffecb5;'>
+    <div style='background-color:  #e7f3fe; padding: 10px; border-radius: 8px; border-left: 5px solid #2196F3;'>
         📌 <i>Apabila muncul keabnormalan pada mesin Cooling Tower, mohon hubungi leader terkait.</i>
     </div>
     """, unsafe_allow_html=True)
