@@ -14,7 +14,7 @@ st.set_page_config(page_title="Prediksi Kerusakan Mesin Cooling Tower", layout="
 # Logo atau gambar dan judul
 col_logo, col_title = st.columns([1, 5])
 with col_logo:
-    st.image("Logo-UBJ.png", width=1000)
+    st.image("Logo-UBJ.png", width=500)
 with col_title:
     st.markdown("""
     <div style='text-align: center;'>
